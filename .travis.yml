@@ -1,4 +1,4 @@
 language: bash
-
+os: osx
 script:
     - bash build_all.sh
